@@ -24,3 +24,24 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joxeph21&" alt="joxeph21" /></p> -->
+### Frontend and Full Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js — React framework" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React — JavaScript UI library" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS — utility-first CSS framework" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter — cross-platform mobile framework" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui — React component library" />
+</p>
+
+### Backend and Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js — JavaScript runtime" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL — relational database" />
+  <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis — in-memory data store" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL — API query language" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Joseph Adenugba GitHub contribution snake animation" />
+</div>
